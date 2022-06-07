@@ -10,8 +10,8 @@ What can we say about the success of a movie before it is released? Are there ce
 
 * To answer : 
 > 1.Which genres are most popular from year to year?
-2.What kinds of properties are associated with movies that have high revenues?
-3.In which year there was the hight average voting?
-4.In which movie there was the longest & shortest runtime?
-5.In which year was the largest number of movies?
-6.What kinds of properties are associated with movies that have high budget?
+> 2.What kinds of properties are associated with movies that have high revenues?
+> 3.In which year there was the hight average voting?
+> 4.In which movie there was the longest & shortest runtime?
+> 5.In which year was the largest number of movies?
+> 6.What kinds of properties are associated with movies that have high budget?
