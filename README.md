@@ -9,9 +9,11 @@ What can we say about the success of a movie before it is released? Are there ce
 * Analyzing TMDb movie data provided by kaggel: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata .
 
 * To answer : 
-> 1.Which genres are most popular from year to year?
-> 2.What kinds of properties are associated with movies that have high revenues?
-> 3.In which year there was the hight average voting?
-> 4.In which movie there was the longest & shortest runtime?
-> 5.In which year was the largest number of movies?
-> 6.What kinds of properties are associated with movies that have high budget?
+<ul>
+<li>1.Which genres are most popular from year to year?</li>
+<li>2.What kinds of properties are associated with movies that have high revenues?</li>
+<li>3.In which year there was the hight average voting?</li>
+<li>4.In which movie there was the longest & shortest runtime?</li>
+<li>5.In which year was the largest number of movies?</li>
+<li>6.What kinds of properties are associated with movies that have high budget?</li>
+</ul>
